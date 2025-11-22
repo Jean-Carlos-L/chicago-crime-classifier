@@ -12,3 +12,6 @@ env/
 .venv/
 
 kaggle.json
+
+# Ignore dataset files
+data/
